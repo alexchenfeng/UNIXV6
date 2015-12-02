@@ -4,4 +4,4 @@ unix v6 is an awesome operating system
 
 all my operating system projects will be pushed here.
 
-![Unix System Arch](UNIXV6/doc/unixv6_page_v0.1.jpg)
+![UnixV6](https://raw.githubusercontent.com/alexchenfeng/UNIXV6/master/doc/unixv6_page_v0.1.png)
